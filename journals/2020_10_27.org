@@ -1,5 +1,2 @@
 #+TITLE: Oct 27th, 2020
 
-** today today
-*** [[anq]]
-*** t t/
