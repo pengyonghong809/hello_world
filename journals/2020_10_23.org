@@ -1,5 +1,2 @@
 #+TITLE: Oct 23rd, 2020
 
-** [[literature note]] [[example for test]]
-*** one found that people survive  in evironment full of oxygen
-***
